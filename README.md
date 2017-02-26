@@ -108,13 +108,21 @@ A python based backdoor which uses [Telegram](https://telegram.org/) as C&C serv
 
 # Requirements
 * [Telepot](https://github.com/nickoala/telepot)
+
 * [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
+
 * [PyCyrpto](http://www.voidspace.org.uk/python/modules.shtml#pycrypto)
+
 * [Pyasn1](https://pypi.python.org/pypi/pyasn1)
+
 * [Pillow](https://pillow.readthedocs.io/en/latest/installation.html)
+
 * Install [PyHook](https://sourceforge.net/projects/pyhook/)
+
 * Install [PyWin32](https://sourceforge.net/projects/pywin32/)
+
 * Install [Microsoft Visual C++ Compiler for Python](https://www.microsoft.com/en-us/download/details.aspx?id=44266)
+
 * Install [PyInstaller](http://www.pyinstaller.org/)
 
 # Screenshots
