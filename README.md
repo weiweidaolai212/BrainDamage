@@ -1,46 +1,46 @@
 # BrainDamage
-===
+====
 A python based backdoor which uses [Telegram](https://telegram.org/) as C&C server.
 
 # Ability
-===
+====
 * whoisonline- list active slaves
 > This command will list all the active slaves.
 
 * destroy- delete&clean up
 > This command will remove the stub from host and will remove registry entries.
 
-* #cmd- execute command on CMD
+* cmd- execute command on CMD
 > Run shell commands on host
 
-* #download- url (startup, desktop, default)
+* download- url (startup, desktop, default)
 > This will download files in the host computer.
 
-* #execute- shutdown, restart, logoff, lock
+* execute- shutdown, restart, logoff, lock
 > This is to mess with the host :D or refresh if things are not working properly
 
-* #screenshot- take screenshot
+* screenshot- take screenshot
 > Take screenshot of the host of computer.
 
-* #send- passwords, drivetree, driveslist, keystrokes, openwindows
+* send- passwords, drivetree, driveslist, keystrokes, openwindows
 > This command will sends passwords (saved browser passwords, FTP, Putty..), directory tree of host (upto level 2), logged keystrokes and windows which are currently open
 
-* #set- email (0:Default,1:URL,2:Update), filename (0: Itself, 1: Others), keystrokes (text)
+* set- email (0:Default,1:URL,2:Update), filename (0: Itself, 1: Others), keystrokes (text)
 > This command can set email template (default, download from url, update current template with text you'll send), rename filenames, insert keystrokes in host :D
 
-* #start- website (URL), keylogger, recaudio (time), webserver (Port), spread
+* start- website (URL), keylogger, recaudio (time), webserver (Port), spread
 > This command can open website, start keylogger, record audio, start webserver, USB Spreading
 
-* #stop- keylogger, webserver
+* stop- keylogger, webserver
 > This command will stop keylogger or webserver
 
-* #wallpaper- change wallpaper (URL)
+* wallpaper- change wallpaper (URL)
 > Changes wallpaper of host computer
 
-* #find- openports (host, threads, ports), router
+* find- openports (host, threads, ports), router
 > This command will find open ports and the router the host is using
 
-* #help- print this usage
+* help- print this usage
 
 <pre>
                            /\
