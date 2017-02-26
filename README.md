@@ -67,6 +67,18 @@ A python based backdoor which uses [Telegram](https://telegram.org/) as C&C serv
     • Platform
 </pre>
 
+# Usage
+* Run eclipse.py on host
+  * On first run:
+    * Files will be copied to startup path
+    * Registry entry will be made
+    * Warning message will appear that file is corrupted.
+    * Folders will be made and set to hidden state.
+    * Passwords and cookies will be sent.
+    * Timestamps will be changed
+* Control host from the Telegram app by sending commands.
+
+
 # Abilities
 * whoisonline- list active slaves
 > This command will list all the active slaves.
