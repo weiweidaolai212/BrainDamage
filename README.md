@@ -68,7 +68,6 @@ A python based backdoor which uses [Telegram](https://telegram.org/) as C&C serv
 </pre>
 
 # Abilities
-====
 * whoisonline- list active slaves
 > This command will list all the active slaves.
 
@@ -117,3 +116,13 @@ A python based backdoor which uses [Telegram](https://telegram.org/) as C&C serv
 * Install [PyWin32](https://sourceforge.net/projects/pywin32/)
 * Install [Microsoft Visual C++ Compiler for Python](https://www.microsoft.com/en-us/download/details.aspx?id=44266)
 * Install [PyInstaller](http://www.pyinstaller.org/)
+
+# Screenshots
+
+![Setup](https://image.ibb.co/mkWNRF/Capture.png)
+![Notification](https://image.ibb.co/kCey0a/IMG_0009.jpg)
+![Who is Online Telegram](https://image.ibb.co/f20GmF/IMG_0006.jpg)
+![Help Telegram](https://image.ibb.co/bZHJ0a/IMG_0004.jpg)
+![Record Audio Telegram](https://image.ibb.co/dA3fDv/IMG_0005.jpg)
+![Take screenshot Telegram](https://image.ibb.co/buPntv/IMG_0007.jpg)
+
