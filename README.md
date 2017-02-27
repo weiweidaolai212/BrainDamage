@@ -67,6 +67,19 @@ A python based backdoor which uses [Telegram](https://telegram.org/) as C&C serv
     • Platform
 </pre>
 
+# Setup
+* Telegram setup:
+  * Install [Telegram](https://telegram.org/) app and search for "BOTFATHER".
+  * Type /help to see all possible commands.
+  * Click on or type /newbot to create a new bot.
+  * Name your bot.
+  * You should see a new API token generated for it.
+* Dedicated Gmail account. Remember to check "allow connection from less secure apps" in gmail settings.
+* Set access_token in eclipse.py to token given by the botfather.
+* Set CHAT_ID in eclipse.py. Send a message from the app and use the telegram api to get this chat id.
+* Set copied_startup_filename in Eclipse.py.
+* Set Gmail password and Username in /Breathe/SendData.py
+
 # Usage
 * Run eclipse.py on host
   * On first run:
@@ -77,7 +90,6 @@ A python based backdoor which uses [Telegram](https://telegram.org/) as C&C serv
     * Passwords and cookies will be sent.
     * Timestamps will be changed
 * Control host from the Telegram app by sending commands.
-
 
 # Abilities
 * whoisonline- list active slaves
