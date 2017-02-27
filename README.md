@@ -77,7 +77,9 @@ A python based backdoor which uses [Telegram](https://telegram.org/) as C&C serv
 * Dedicated Gmail account. Remember to check "allow connection from less secure apps" in gmail settings.
 * Set access_token in eclipse.py to token given by the botfather.
 * Set CHAT_ID in eclipse.py. Send a message from the app and use the telegram api to get this chat id.
+
 > bot.getMe() will give output {'first_name': 'Your Bot', 'username': 'YourBot', 'id': 123456789}
+
 * Set copied_startup_filename in Eclipse.py.
 * Set Gmail password and Username in /Breathe/SendData.py
 
