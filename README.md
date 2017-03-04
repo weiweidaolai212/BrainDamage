@@ -148,3 +148,5 @@ A python based backdoor which uses [Telegram](https://telegram.org/) as C&C serv
 
 ![Take screenshot Telegram](https://image.ibb.co/buPntv/IMG_0007.jpg)
 
+# For educational purposes only, use at your own responsibility.
+
