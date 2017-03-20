@@ -18,7 +18,7 @@ A python based backdoor which uses [Telegram](https://telegram.org/) as C&C serv
 
 --> Coded by: Mehul Jain(mehulj94@gmail.com)
 --> Github: https://github.com/mehulj94
---> Twitter: https://twitter.com/wayfarermj
+--> Twitter: https://twitter.com/_b00geyman_
 --> For windows only
 
   ______         _                       
