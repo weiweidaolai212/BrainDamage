@@ -60,7 +60,8 @@ class Cyberduck():
         elif path == 'APPDATA_NOT_FOUND':
             pass
         else:
-            self.parse_xml(path)
+            pwd_found = self.parse_xml(path)
+            return pwd_found
 
 #tem = Cyberduck()
 #a = tem.run()
