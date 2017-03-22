@@ -52,9 +52,13 @@ class CoreFTP():
         return pwdFound
 
     def run(self):
-
-        if self.get_key_info() == False:
+        
+        pwd_found = self.get_key_info()
+        
+        if pwd_found == False:
             pass
+        else
+            return pwd_found
 
 # tem = CoreFTP()
 # a= tem.run()
