@@ -45,9 +45,8 @@ class FtpNavigator():
             path = os.environ.get('HOMEDRIVE') + os.sep + 'FTP Navigator\\Ftplist.txt'
 
             if os.path.exists(path):
-                self.read_file(path)
-            else:
-                pass
+                pwd_found = self.read_file(path)
+                return pwd_found
 
 #tem = FtpNavigator()
 #a = tem.run()
