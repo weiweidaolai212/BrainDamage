@@ -154,10 +154,8 @@ class WinSCP():
                 r = self.get_logins_info()
                 if r == False:
                     pass
-            else:
-                pass
-        else:
-            pass
+                else:
+                    return r
 
 # tem = WinSCP()
 # a = tem.run()
