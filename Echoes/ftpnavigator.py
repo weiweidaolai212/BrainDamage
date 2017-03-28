@@ -1,4 +1,4 @@
-# Based on the work of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/softwares/sysadmin/ftpnavigator.py
+# Based on the work of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/
 import struct, os
 
 
