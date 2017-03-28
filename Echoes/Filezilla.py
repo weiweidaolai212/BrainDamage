@@ -1,4 +1,4 @@
-# Based on the work of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/softwares/sysadmin/filezilla.py
+# Based on the work of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/
 import xml.etree.cElementTree as ET
 import os, base64
 
