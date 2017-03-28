@@ -1,3 +1,4 @@
+# Based on the work of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/softwares/sysadmin/ftpnavigator.py
 import struct, os
 
 
