@@ -1,4 +1,4 @@
-# Based on the works of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/softwares/sysadmin/coreftp.py
+# Based on the works of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/
 import binascii
 from Crypto.Cipher import AES
 import win32con, win32api
