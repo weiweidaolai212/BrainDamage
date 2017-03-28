@@ -1,3 +1,4 @@
+# Based on the work of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/softwares/sysadmin/filezilla.py
 import xml.etree.cElementTree as ET
 import os, base64
 
