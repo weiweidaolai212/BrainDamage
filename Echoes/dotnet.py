@@ -1,4 +1,4 @@
-# Based on the work of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/softwares/windows/dot_net.py
+# Based on the work of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/
 import struct
 from ctypes import *
 from ctypes.wintypes import DWORD
