@@ -1,4 +1,4 @@
-# Based on the works of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/softwares/sysadmin/cyberduck.py
+# Based on the works of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/
 import win32crypt
 import os, base64
 import xml.etree.cElementTree as ET
