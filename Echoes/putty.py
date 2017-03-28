@@ -1,4 +1,4 @@
-# Based on the work of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/softwares/sysadmin/puttycm.py
+# Based on the work of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/
 import xml.etree.cElementTree as ET
 import win32con, win32api
 import os
