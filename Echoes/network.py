@@ -1,3 +1,4 @@
+# Based on the work of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/softwares/windows/network.py
 import struct, platform, win32cred
 from ctypes import *
 from ctypes.wintypes import DWORD
