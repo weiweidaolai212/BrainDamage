@@ -1,4 +1,4 @@
-# Based on the work of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/softwares/chats/skype.py
+# Based on the work of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/
 from Crypto.Cipher import AES
 import xml.etree.cElementTree as ET
 import win32con, win32api, win32crypt
