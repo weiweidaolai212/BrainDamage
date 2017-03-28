@@ -1,4 +1,4 @@
-
+# Based on the work of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/softwares/browsers/mozilla.py
 from ctypes import *
 import sys, os, re, glob
 from base64 import b64decode
