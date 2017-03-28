@@ -1,4 +1,4 @@
-# Based on the works of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/softwares/mails/outlook.py
+# Based on the works of https://github.com/AlessandroZ/LaZagne/blob/master/Windows/lazagne/
 import win32api, win32con, win32crypt
 
 
