@@ -58,7 +58,7 @@ class CoreFTP():
         
         if pwd_found == False:
             pass
-        else
+        else:
             return pwd_found
 
 # tem = CoreFTP()
