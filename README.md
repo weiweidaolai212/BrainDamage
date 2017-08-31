@@ -126,7 +126,7 @@ A python based backdoor which uses [Telegram](https://telegram.org/) as C&C serv
 # Requirements
 * [Telepot](https://github.com/nickoala/telepot)
 * [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
-* [PyCyrpto](http://www.voidspace.org.uk/python/modules.shtml#pycrypto)
+* [PyCrypto](http://www.voidspace.org.uk/python/modules.shtml#pycrypto)
 * [Pyasn1](https://pypi.python.org/pypi/pyasn1)
 * [Pillow](https://pillow.readthedocs.io/en/latest/installation.html)
 * Install [PyHook](https://sourceforge.net/projects/pyhook/)
