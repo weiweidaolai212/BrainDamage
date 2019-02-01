@@ -1,5 +1,5 @@
 # BrainDamage
-A python based backdoor which uses [Telegram](https://telegram.org/) as C&C server.
+A python based remote administration tool which uses [Telegram](https://telegram.org/) as C&C server.
 
 <pre>
                            /\
@@ -30,11 +30,11 @@ A python based backdoor which uses [Telegram](https://telegram.org/) as C&C serv
                                          
 
 --> Persistance
---> USB spreading
+--> USB spread
 --> Port Scanner
 --> Router Finder
 --> Run shell commands
---> Keylogger
+--> Keys logging
 --> Insert keystrokes
 --> Record audio
 --> Webserver
